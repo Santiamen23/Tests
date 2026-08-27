@@ -84,9 +84,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "dfcdb2727b8f3a7020a2cc980f286e3a1ca0c316",
     "commitName": "feat: tercer ciclo de prueba 97 deberia devolver 97",
     "commitTimestamp": 1787838782064,
     "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: cuarto ciclo de prueba 8 deberia devolver 8",
+    "commitTimestamp": 1787838828156,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1787838857537,
+    "success": true,
+    "testId": 4
   }
 ]
