@@ -38,7 +38,7 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "cc65104395681a6bcb90ed425f75f6101fb02a79",
     "commitName": "refactor:Modificacion metodo fizzbuzz numeros que dan de respeusta el mismo numero",
     "commitTimestamp": 1787838193680,
     "testId": 1
@@ -81,6 +81,12 @@
     "numTotalTests": 4,
     "timestamp": 1787838710174,
     "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: tercer ciclo de prueba 97 deberia devolver 97",
+    "commitTimestamp": 1787838782064,
     "testId": 2
   }
 ]

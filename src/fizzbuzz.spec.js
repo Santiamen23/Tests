@@ -10,5 +10,8 @@ describe("FizzBuzz",()=>{
     it("deberia imprimir el mismo numero si no sigue la regla",()=>{
     expect(fizzbuzz(97)).toEqual("97");
   })
+    it("deberia imprimir otro numero que no sigue la regla",()=>{
+    expect(fizzbuzz(8)).toEqual("8");
+  })
 })
 
