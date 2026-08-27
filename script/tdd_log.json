@@ -14,5 +14,27 @@
     "timestamp": 1787837687507,
     "success": true,
     "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Implementacion y test FizzBuzz",
+    "commitTimestamp": 1787837788225,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1787837854711,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1787838065788,
+    "success": true,
+    "testId": 1
   }
 ]
