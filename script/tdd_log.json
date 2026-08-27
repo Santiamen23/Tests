@@ -16,7 +16,7 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "594fcb470046450bb9faee0278d5b798f2fa2961",
     "commitName": "feat: Implementacion y test FizzBuzz",
     "commitTimestamp": 1787837788225,
     "testId": 0
@@ -36,5 +36,51 @@
     "timestamp": 1787838065788,
     "success": true,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor:Modificacion metodo fizzbuzz numeros que dan de respeusta el mismo numero",
+    "commitTimestamp": 1787838193680,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1787838481403,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1787838489435,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 2,
+    "numTotalTests": 7,
+    "timestamp": 1787838512506,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1787838545105,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1787838710174,
+    "success": true,
+    "testId": 2
   }
 ]
