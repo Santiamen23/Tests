@@ -22,5 +22,8 @@ describe("FizzBuzz",()=>{
   it("deberia imprimir Buzz",()=>{
     expect(fizzbuzz(10)).toEqual("Buzz");
   })
+    it("deberia imprimir FizzBuzz",()=>{
+    expect(fizzbuzz(45)).toEqual("FizzBuzz");
+  })
 })
 
