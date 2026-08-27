@@ -104,7 +104,7 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "bdd525d826c1ccf54825ca39cb6d165d0722bd15",
     "commitName": "feat: quinto ciclo de prueba 33 deberia devolver Fizz",
     "commitTimestamp": 1787838882308,
     "testId": 4
@@ -116,5 +116,19 @@
     "timestamp": 1787838898719,
     "success": true,
     "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: sexto ciclo de prueba 6 deberia devolver Fizz",
+    "commitTimestamp": 1787838919129,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1787839089582,
+    "success": true,
+    "testId": 6
   }
 ]
