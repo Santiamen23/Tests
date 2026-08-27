@@ -146,9 +146,15 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a6ddf7fb066161015ead689e2f7636fc96f2168e",
     "commitName": "feat: octavo ciclo de prueba 45 deberia devolver FizzBuzz",
     "commitTimestamp": 1787839195078,
     "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementacion fizzbuzz en index",
+    "commitTimestamp": 1787840641925,
+    "testId": 8
   }
 ]
